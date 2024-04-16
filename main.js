@@ -23,8 +23,6 @@ function time() {
   clockElement.innerText = currentTime;
   clockElement.textContent = currentTime;
 
-  session.style.backgroundColor = "white";
-
   setTimeout(time, 1000);
   // runs the function every second
 }
