@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/QxxmpwBx/2024-04-17-00-40-28.png">
+<img src="https://i.postimg.cc/hjcLgDYn/2024-04-17-02-00-23.png">
 
 <h1>The Concept of this Digital Clock  </h1>
 Initialization: The function begins by creating a Date object to obtain the current time.
